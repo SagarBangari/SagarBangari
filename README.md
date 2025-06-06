@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I’m Sagar
 
-<!--
-**SagarBangari/SagarBangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 I’m a Computer Science Engineering student at **[BMS College of Engineering]**  
+💡 Passionate about Web Development, Problem Solving, and Open Source  
+🚀 Currently learning MERN stack and exploring new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills Breakdown
+
+### 💻 Programming Languages
+- C++
+- Python
+- JavaScript
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+### 🛠 Tools & Technologies
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 🔥 GitHub Stats
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SagarBangari&theme=dark&hide_border=true)
+
+<!-- GitHub Stats -->
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SagarBangari&show_icons=true&theme=dark)
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sagar-bangari)
+- [LeetCode](https://leetcode.com/u/Sagar_Bangari)
+
+---
+
+## 📫 Contact
+
+📧 Email: sagarbangari2004@gmail.com
+
+---
+
+## 🎨 Profile View Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SagarBangari&style=flat-square&color=blue)
+
